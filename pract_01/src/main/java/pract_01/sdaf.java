@@ -10,7 +10,8 @@ public class sdaf {
 	private String forRebase;
 	private String update;
 	private String mission_one;
-	private String mission_two;//complete mission two
+	private String mission_two;//complete mission two + change mission 2
+
 
 
 
