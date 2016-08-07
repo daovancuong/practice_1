@@ -5,6 +5,8 @@ public class sdaf {
 	private String age;
 	private String mine;
 	private String thanks;
+	private String branch_1;
+	private String branch_2;
 	
 
 
