@@ -8,6 +8,7 @@ public class sdaf {
 	private String branch_1;
 	private String branch_2;
 	private String forRebase;
+	private String update;
 
 
 
